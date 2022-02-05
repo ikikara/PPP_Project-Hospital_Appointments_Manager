@@ -1,0 +1,23 @@
+Fernando Mendes#Psicologia
+Andre Amaro#Cirugia
+Francisco Felicio#Estomatologia
+Joao Melo#Ortopedia
+Joao #Oncologia
+Pedro Furtado#Cirugia
+Mario Lemos#Pediatria
+Natividade Melo#Estomatologia
+Leonor Reis#Psicologia
+Pedro Martins#Oftamologia
+Joao Correia#Cirugia
+Josefino Pereira#Oftamologia
+Joao Mendes#Estomatologia
+Marta Pereira#Oncologia
+Antonio Correia#Hematologia
+Joao Ricardo#Psicologia
+Antonio Mendes#Oftamologia
+Tomas Correia#Nefrologia
+Joana Silva#Oftamologia
+Joao Reis#Pediatria
+
+
+
