@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/Funcoes.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+math.h
+-
+StructsListasLigadas.c
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/StructsListasLigadas.c
+
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/Links.h
+
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/StructsListasLigadas.c
+
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/main.c
+stdio.h
+-
+string.h
+-
+Links.h
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/Links.h
+

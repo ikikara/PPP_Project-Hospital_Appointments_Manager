@@ -1,0 +1,1 @@
+gcc -o $1 -Wall main.c Funcoes.c StructsListasLigadas.c 

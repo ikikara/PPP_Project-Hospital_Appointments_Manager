@@ -1,0 +1,51 @@
+####Nome: João Carlos Borges Silva ##Numero: 2019216753 ##Email:uc2019216753@student.uc.pt
+         Trabalho de Princípios de Programação Procedimental
+         Ano letivo 2019/2010
+
+O enunciado fornecido não é necessariamente completo. O comportamento do
+programa nas situações não previstas no enunciado deve ser escolhido por
+cada estudante, de entre as várias hipóteses razoáveis. As escolhas
+feitas devem ser referidas explicitamente: não é aceitável ter de ir ver
+qual o comportamento do programa nesses casos para saber qual a escolha
+feita. No cabeçalho do programa principal devem estar listadas as
+escolhas feitas.
+
+As situações de erro devem ser intercetadas e recuperadas ou, pelo
+menos, assinaladas, se a recuperação não for viável ou for complexa.
+Os dados de entrada devem fazer sentido, conter pelo menos 100                     (FEITO)
+entidades, e os ficheiros que os contenham devem ser incluídos na
+submissão final do trabalho.
+
+O interface com a estrutura de dados usada deve estar bem definido.
+A implementação da estrutura de dados deve ser feita num ficheiro fonte
+autónomo, sendo os dados que a suportam declarados como variáveis static           (FEITO)
+nesse ficheiro, para não poderem ser usadas no programa principal.
+
+Os dados de entrada devem ser lidos de um ficheiro de texto, com uma
+entidade por linha, e os diversos atributos de uma entidade separados              (FEITO)
+pelo carater '#'.
+
+O nome do ficheiro de entrada deve ser pedido ao utilizador.                       (FEITO)
+
+O programa deve fazer a programação das consultas num hospital para um
+determinado dia. Há dois grupos de dados de entrada: uma lista de
+médicos, indicando a respetiva especialidade, e uma lista de doentes,              (FEITO)
+indicando a especialidade em que precisam de ser consultados e o seu
+grau de urgência numa escala de 1 (menos urgente) a 4 (mais urgente).
+
+Cada médico vê 10 doentes, de meia em meia hora, entre as 10 e as 15
+horas. O programa deve gerar duas listagens: uma lista de doentes e as             (FEITO)
+suas marcações, e uma lista de médicos e a respetivas marcações.
+
+O programa deve usar (uma ou mais) listas ligadas simples baseadas em              (FEITO)
+gestão dinâmica de memória.        
+
+O nome do ficheiro de saída deve ser pedido ao utilizador.                         (FEITO)
+
+Os dados de saída devem ser escritos num ficheiro de texto, com uma
+entidade por linha, e os diversos atributos da entidade separados pelo             (FEITO)
+carater '\t'.
+
+
+
+

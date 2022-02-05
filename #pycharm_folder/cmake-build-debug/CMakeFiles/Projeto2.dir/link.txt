@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Projeto2.dir/main.c.o CMakeFiles/Projeto2.dir/Funcoes.c.o CMakeFiles/Projeto2.dir/StructsListasLigadas.c.o  -o Projeto2.exe -Wl,--out-implib,libProjeto2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

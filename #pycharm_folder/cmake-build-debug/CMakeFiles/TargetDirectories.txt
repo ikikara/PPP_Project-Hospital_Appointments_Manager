@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/cmake-build-debug/CMakeFiles/Projeto2.dir
+/cygdrive/c/Users/Ikiru/Desktop/Projects/Projeto_PPP/#pycharm_folder/cmake-build-debug/CMakeFiles/edit_cache.dir
