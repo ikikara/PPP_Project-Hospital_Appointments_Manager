@@ -10,7 +10,7 @@
 
 ## Description
 This project was developed for Introduction to Procedural Programming subject @University of Coimbra, Informatics Engineering <br>
-Consists in develop a program that manage appointments of a Hospital
+Consists in develop a program that manages hospital appointments
 #### Main Languages:
 ![](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) 
 
