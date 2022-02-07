@@ -23,7 +23,6 @@ Consists in develop a program that manages hospital appointments
 You have two ways to run this project:
 1. Using CLion
     * Download the folder "Project" that is inside "#clion_folder"
-    * Open CLion
     * Open this project with CLion<br>
       ![image](https://i.imgur.com/omTIa1E.png) ![image](https://i.imgur.com/faeZmPV.png) <br>
     * Run the program<br>
