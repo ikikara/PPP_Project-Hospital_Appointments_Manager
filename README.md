@@ -52,4 +52,4 @@ You have two ways to run this project:
 - The files that are on folder "resources" must be on the folder of "Project" (1st way to run) or on the same folder of *.c files (2nd way to run)
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
